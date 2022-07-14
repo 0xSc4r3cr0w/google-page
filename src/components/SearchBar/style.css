@@ -1,0 +1,25 @@
+.no-border {
+    border-style: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.container-search{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 30px;
+    border-color: rgb(212, 212, 212);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.input-search{
+    width: calc(100% - 40px);
+    border-radius: 30px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.smll-font{
+    font-size: 14px;
+}

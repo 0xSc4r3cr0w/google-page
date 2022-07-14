@@ -1,0 +1,25 @@
+.fixed-menu-size > .option-container {
+    margin: 10px;
+    padding: 10px;
+    width: fit-content;
+    display: inline-block;
+}
+
+.img-center{
+    height: 70px;
+    width: 70px;
+    margin: 0 auto;
+}
+
+.description-img{
+    white-space: nowrap;
+    max-width: 70px;
+    overflow: hidden;
+    text-align: center;
+    text-overflow: ellipsis;
+}
+
+.fixed-menu-size > div:hover {
+    background-color: rgba(66, 180, 195, 0.165);
+    border-radius: 8px;
+}

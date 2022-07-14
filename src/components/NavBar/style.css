@@ -1,0 +1,17 @@
+.fixed-menu-size{
+    height: 500px;
+    width: 370px;
+    overflow: scroll;
+}
+
+.small-text{
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+.small-text:hover{
+    text-decoration: underline;
+    color: black;
+    cursor: pointer;
+}

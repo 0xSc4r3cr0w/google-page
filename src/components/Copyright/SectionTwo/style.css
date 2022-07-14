@@ -1,0 +1,10 @@
+.section-links{
+    color: rgb(135, 135, 135);
+    text-decoration: none;
+}
+
+.section-links:hover{
+    color: rgb(135, 135, 135);
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -13,6 +13,12 @@
     padding-right: 10px;
 }
 
+#search-bar-input{
+    fill: rgb(129, 129, 129);
+    margin-left: 3px;
+    margin-right: 12px;
+}
+
 .input-search{
     width: calc(100% - 40px);
     border-radius: 30px;

@@ -9,7 +9,7 @@ import "./App.css";
 function App() {
   return (
     <div class="d-flex vh-100 vw-100 flex-column">
-      <div class="d-flex flex-column justify-content-start  flex-fill">
+      <div class="d-flex flex-column justify-content-start flex-fill">
         <NavBar />
         <GoogleLogo />
         <SearchBar />
